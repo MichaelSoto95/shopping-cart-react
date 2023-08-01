@@ -54,6 +54,7 @@ setTimeout(() => {
                  </div>
              </div>
             ))}
+            
 </div>
 <Footer/>
     </>

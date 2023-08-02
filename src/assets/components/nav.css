@@ -27,14 +27,16 @@
 
 }
 .cart-container .cart-lenght{
+    font-size: 12px;
   display: flex;
 justify-content: center;
 align-items: center;
-    height: 20px;
-    width: 20px;
+height: 20px;
+width: 20px;
     background-color: red;
- border-radius: 50%;
+ border-radius: 100%;
   font-weight:700 ;
+
 }
 .cart-logo{
     font-size: 1.5rem;
